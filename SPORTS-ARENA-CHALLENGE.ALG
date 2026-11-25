@@ -191,7 +191,7 @@ Inicio
       senao
          limpaTela
 
-         // Mostra as equipes cadastradas e a pontuacao do esporte escolhido.
+         // Mostra as equipes cadastradas e a pontuacao da equipe no esporte escolhido.
          escolha esporte faca
             caso "1"
                escreval(" COMPETICAO - FUTEBOL ")
