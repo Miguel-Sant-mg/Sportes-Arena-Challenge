@@ -38,7 +38,7 @@ O projeto permite cadastrar jogadores, organizar equipes, acompanhar pontuaçõe
 ## 🚀 Como executar
 
 1. Baixe e instale o [VisualG](https://visualg3.com.br/).
-2. Abra o arquivo `PROJETOFACUL_ESPORTSARENA_10_EQUIPES.ALG`.
+2. Abra o arquivo `SPORTS-ARENA-CHALLENGE`.
 3. Execute o algoritmo pelo ambiente VisualG.
 4. Utilize o menu principal para acessar as funcionalidades disponíveis no sistema.
 
@@ -52,4 +52,4 @@ Por meio do desenvolvimento do sistema, busca-se colocar em prática os conhecim
 
 **E-SPORTS ARENA CHALLENGE**
 
-*Projeto acadêmico.*
+-*Projeto acadêmico.*
